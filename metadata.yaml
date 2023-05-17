@@ -1,0 +1,41 @@
+_repo: The-Negro-as-a-soldier_70404
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Fleetwood, Christian A. (Christian Abraham)
+    birthdate: 1840
+    deathdate: 1914
+    gutenberg_agent_id: '55743'
+    url: http://www.gutenberg.org/2009/agents/55743
+    wikipedia: https://en.wikipedia.org/wiki/Christian_Abraham_Fleetwood
+description: ''
+gutenberg_issued: '2023-03-29'
+identifiers:
+  gutenberg: '70404'
+  lccn: a12000751
+language: en
+pgterms:marc905: 20190408084918fleetwood
+pgterms:marc906: '1895'
+pgterms:marc907: US
+production_note: hekula03, Barry Abrahamsen and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This book was produced from images made available
+  by the HathiTrust Digital Library.)
+publication_note: '  $aUnited States :$bGeo. Wm Cook, $c1895.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'African American soldiers'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- African Americans'
+- !lcc 'E151'
+- !lcc 'E300'
+- !lcc 'E456'
+- GITenberg
+summary: Fleetwood was an African American who rose to rank of sergeant-major and
+  received the Congressional Medal of Honor. He gives an account of the African American
+  soldier from the Revolutionary War to the Civil War to show his suitability for
+  military service, with concentration on the Civil War. He cites instances of valor
+  and testimonials thereto, statistics on Black enlistments by state and on casualties,
+  and lists African Americans who received the Congressional Medal of Honor.
+title: The Negro as a soldier
+url: http://www.gutenberg.org/ebooks/70404
